@@ -1,15 +1,43 @@
-## Olá, sou Maria Rita 👋
-- 🔭 Atualmente estudo Ciência da Computação na Universidade Federal da Paraíba (UFPB)
-- 🌱 Aprendendo Python e Java
-  
-<div>
-  <a href="https://github.com/mrit4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrit4&show_icons=true&theme=dracula&include_all_commits&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrit4&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C538&center=true&repeat=false&width=435&lines=%E2%98%86+Hi!+I'm+Maria+Rita!+%E2%98%86" alt="Typing SVG" />
+  </a>
 </div>
+
+
+<div align="center">
+  I'm a Computer Science student at the Universidade Federal da Paraíba (UFPB). I'm learning Python and Java, and most of my repositories reflect my progress. I speak Portuguese and English.
+</div> 
+
+<br/>
+
+<p align="center">
+  <a href="mailto:mritanovo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6">
+  </a>
+  <a href="https://www.linkedin.com/in/mritaff/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6">
+  </a>
+</p>
+
+#
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="mrit4-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="mrit4-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="mrit4-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+<h3 align="center">My Stack</h3>
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,java,python" /><br>
+</div>
+
+#
+
+<h3 align="center">Stats</h3>
+<br>
+
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mrit4&count_private=true&theme=great-gatsby&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mrit4&count_private=true&show_icons=true&theme=great-gatsby&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mrit4&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=great-gatsby&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
